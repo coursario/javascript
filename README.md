@@ -1,8 +1,8 @@
-# JavaScript for beginners
+# JavaScript
 
-This repository consists of exercises for JavaScript beginners
-that already know how to use JavaScript. Here they learn deeper
-knowledge of the most important parts of JavaScript.
+This repository consists of JavaScript exercises for people
+that already know how to use JavaScript. Here they can get
+ deeper knowledge of the most important parts of JavaScript.
 
 ## Content
 

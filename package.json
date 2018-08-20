@@ -1,24 +1,23 @@
 {
-  "name": "javascript-beginners",
+  "name": "coursar.io-exercises-javascript",
   "version": "0.0.1",
-  "description": "JavaScript for beginners.",
+  "description": "Coursar.io exercises for JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coursario/javascript-beginners.git"
+    "url": "git+https://github.com/coursario/javascript.git"
   },
   "keywords": [
     "JavaScript",
-    "Beginners",
-    "learn"
+    "exercises"
   ],
   "author": "Marco Schaule <marco.schaule@coursar.io>",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/coursario/javascript-beginners/issues"
+    "url": "https://github.com/coursario/javascript/issues"
   },
-  "homepage": "https://github.com/coursario/javascript-beginners#readme"
+  "homepage": "https://github.com/coursario/javascript#readme"
 }
